@@ -2,9 +2,9 @@
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 5,
   "autoPushInterval": 0,
-  "autoPullInterval": 0,
+  "autoPullInterval": 3,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -19,9 +19,9 @@
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
-  "refreshSourceControlTimer": 7000,
+  "refreshSourceControlTimer": 500,
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false
 }
