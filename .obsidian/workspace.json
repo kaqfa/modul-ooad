@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "afc36414023c78c1",
+        "id": "16177413dcb6290e",
         "type": "tabs",
         "children": [
           {
-            "id": "fb134e2c2595d470",
+            "id": "832a5cb5f67eb2f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "fb134e2c2595d470",
+  "active": "aa539eef0eb04531",
   "lastOpenFiles": [
-    "Arsitektur Perangkat Lunak.md",
     "README.md",
+    "Arsitektur Perangkat Lunak.md",
     "Diagram UML.md",
     "Design Pattern.md",
     "Pemrograman Berorientasi Obyek (PBO).md",
