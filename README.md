@@ -37,15 +37,12 @@
 		- Aggregasi
 		- Dependensi
 3. **[[Diagram UML]]**
-	- Perkenalan ke UML
-	- Structure Diagram
-		- Use case diagram
-		- Class diagram
-		- Object diagram
-	- Behavior Diagram
-		- Sequence diagram
-		- Collaboration diagram
-		- Statechart diagram
+	- Perkenalan UML
+	- Use case diagram
+ 	- Activity diagram
+	- Class diagram	
+	- Sequence diagram
+	- Deployment diagram
 4. **[[Design Pattern]]**
 	- Perkenalan design pattern
 	- Creational pattern
